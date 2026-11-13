@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - Ular Tangga</title>
+    <style>body { font-family: sans-serif; max-width: 800px; margin: 40px auto; padding: 0 20px; line-height: 1.6; }</style>
+</head>
+<body>
+    <h1>Privacy Policy</h1>
+    <p><strong>Last updated:</strong> [Tanggal]</p>
+    <p>This Privacy Policy applies to the mobile game <strong>Ular Tangga</strong> ("the Game") developed by <strong>[Nama Studio/Nama Kamu]</strong> ("we", "us", or "our").</p>
+
+    <h2>1. Information We Collect</h2>
+    <p>The Game is designed to be played offline. We do not collect, transmit, or share any personally identifiable information (PII) from our players.</p>
+    <p><strong>Local Data Storage:</strong> The Game stores your progress and preferences locally on your device using your browser's or app's local storage. This includes:</p>
+    <ul>
+        <li>Game progress (unlocked characters, dice skins, levels, stages, stars, coins)</li>
+        <li>Ranked match statistics (wins, losses, flees, rank, stars)</li>
+        <li>Audio volume settings</li>
+        <li>Tutorial completion flags</li>
+        <li>Daily login status</li>
+    </ul>
+    <p>This data remains entirely on your device and is not transmitted to any server.</p>
+
+    <h2>2. Third-Party Services</h2>
+    <p>If and when advertising is enabled in a future version of the Game, we may use Google AdMob to display advertisements. AdMob may collect certain device information and identifiers to serve personalized or non-personalized ads. You can learn more about how Google collects and uses data by visiting <a href="https://policies.google.com/privacy" target="_blank">Google's Privacy Policy</a>.</p>
+    <p>As of the current version, no advertising SDK is active and no data is collected by third-party services.</p>
+
+    <h2>3. Children's Privacy</h2>
+    <p>The Game does not knowingly collect any personal information from children. Since we do not collect any PII at all, the Game is safe for players of all ages. If you are a parent or guardian and believe your child has provided us with personal information, please contact us so we can take necessary actions.</p>
+
+    <h2>4. Data Retention and Deletion</h2>
+    <p>All game data is stored locally on your device. You can delete all local data at any time through the in-game "Reset All Data" option (available in the Player Profile screen) or by clearing the app's data through your device's settings.</p>
+
+    <h2>5. Changes to This Privacy Policy</h2>
+    <p>We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Last updated" date. You are advised to review this Privacy Policy periodically for any changes.</p>
+
+    <h2>6. Contact Us</h2>
+    <p>If you have any questions about this Privacy Policy, please contact us at:</p>
+    <p><strong>Email:</strong> [Email Kamu]</p>
+    <p><strong>Developer:</strong> [Nama Studio/Nama Kamu]</p>
+</body>
+</html>
