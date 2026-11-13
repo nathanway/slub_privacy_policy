@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Terms of Service - Ular Tangga</title>
+    <style>body { font-family: sans-serif; max-width: 800px; margin: 40px auto; padding: 0 20px; line-height: 1.6; }</style>
+</head>
+<body>
+    <h1>Terms of Service</h1>
+    <p><strong>Last updated:</strong> [Tanggal]</p>
+    <p>By downloading and playing <strong>Ular Tangga</strong> ("the Game"), you agree to these Terms of Service ("Terms"). If you do not agree to these Terms, please do not use the Game.</p>
+
+    <h2>1. License</h2>
+    <p>We grant you a personal, non-exclusive, non-transferable, revocable license to use the Game for your personal, non-commercial entertainment purposes. You may not:</p>
+    <ul>
+        <li>Copy, modify, or distribute the Game or any part of it</li>
+        <li>Reverse engineer, decompile, or disassemble the Game</li>
+        <li>Use the Game for any commercial purpose without our written permission</li>
+        <li>Remove or alter any copyright or proprietary notices</li>
+    </ul>
+
+    <h2>2. Game Data</h2>
+    <p>All game progress is stored locally on your device. We are not responsible for any loss of game data resulting from device failure, app uninstallation, or clearing of app data. You are solely responsible for managing your local save data.</p>
+
+    <h2>3. User Conduct</h2>
+    <p>You agree not to use the Game in any way that could damage, disable, overburden, or impair the Game or interfere with any other party's use of the Game.</p>
+
+    <h2>4. In-App Purchases and Advertising</h2>
+    <p>The Game may include optional rewarded advertisements (to be enabled in a future version) that grant in-game currency. Any such advertisements are provided by third-party ad networks, and their respective terms and privacy policies apply.</p>
+    <p>The Game does not currently offer any paid in-app purchases.</p>
+
+    <h2>5. Disclaimer of Warranties</h2>
+    <p>The Game is provided "as is" without warranty of any kind, express or implied. We do not guarantee that the Game will be error-free, uninterrupted, or free of viruses or other harmful components.</p>
+
+    <h2>6. Limitation of Liability</h2>
+    <p>In no event shall we be liable for any indirect, incidental, special, consequential, or punitive damages arising out of or related to your use of the Game.</p>
+
+    <h2>7. Changes to Terms</h2>
+    <p>We reserve the right to modify these Terms at any time. We will notify you of any changes by posting the new Terms on this page and updating the "Last updated" date. Your continued use of the Game after any changes constitutes acceptance of the new Terms.</p>
+
+    <h2>8. Governing Law</h2>
+    <p>These Terms shall be governed by and construed in accordance with the laws of the Republic of Indonesia, without regard to its conflict of law provisions.</p>
+
+    <h2>9. Contact</h2>
+    <p>If you have any questions about these Terms, please contact us at:</p>
+    <p><strong>Email:</strong> [Email Kamu]</p>
+    <p><strong>Developer:</strong> [Nama Studio/Nama Kamu]</p>
+</body>
+</html>
